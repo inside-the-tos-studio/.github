@@ -1,4 +1,4 @@
-![TOS Logo](/Theone 523x208.webp)
+![TOS Logo](https://github.com/inside-the-tos-studio/.github/blob/main/profile/Theone%20523x208.webp)
 
 # 🚀 Bienvenue dans la zone de test des cool kids devs ! 😎
 
