@@ -15,11 +15,11 @@ Voici les 4 repos où tu vas devoir prouver que t'es vraiment un dev cool. Chaqu
 ### 1. **[Le Repo de l’algorithme magique : Vase qui se brise](https://github.com/inside-the-tos-studio/casse-le-vase)** 🧙‍♂️
 Là, on teste tes compétences en algorithmes. Résous le problème classique du "vase qui se brise à un étage" avec une approche optimisée. Comment trouver l’étage où le vase se brise avec deux vases et le minimum de tests possibles ? **Ne triche pas, c’est un challenge cool !**
 
-### 2. **[Reproduire une PLP en Vue.js 3 + TypeScript](#)** ⚡ (TODO)
+### 2. **[Bali Vibes (airbnb mais à Bali), coder la PLP en Vue.js 3 + TypeScript](https://github.com/inside-the-tos-studio/bali-vibes)** ⚡
 Tu maîtrises Vue.js 3 et TypeScript ? Ce repo est pour toi ! Reproduis une PLP (Page de Liste de Produits) avec tous les composants, filtrages et mises en page comme dans une vraie application e-commerce. Il y a des détails, mais c’est du bon travail à faire. 🔥
 
-### 3. **[Reproduire une PLP en React + TypeScript](#)** ⚛️
-Si React est ton terrain de jeu, ce repo est là pour te challenger. La tâche : reproduire une PLP avec des composants React et TypeScript. Va au-delà du basique, et essaie d’avoir une structure bien propre avec des hooks, du state et des props. **Montre-nous ce que tu sais faire avec React !** 💪
+### 3. **[Développer le dashboard de Bali Vibes en React + TypeScript](https://github.com/inside-the-tos-studio/vibes-dashboard)** ⚛️
+Si React est ton terrain de jeu, ce repo est là pour te challenger. La tâche: reproduire une PLP avec des composants React et TypeScript. Va au-delà du basique, et essaie d’avoir une structure bien propre avec des hooks, du state et des props. **Montre-nous ce que tu sais faire avec React !** 💪
 
 ### 4. **[Reproduire une PLP en Svelte + TypeScript](#)** 🌱 (TODO)
 Tu veux te démarquer avec Svelte ? Ce repo te met au défi de reproduire une PLP avec Svelte et TypeScript. Svelte est un framework génial qui mérite d’être exploré, alors montre-nous comment tu gères cette bête-là. On attend de la fluidité et de l’élégance dans ton code ! 😎
