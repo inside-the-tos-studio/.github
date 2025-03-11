@@ -41,6 +41,7 @@ On utilise quelques outils sympas pour tester ton code, comme **Jest** pour les 
 2. **Tous les exercices sont indépendants**, commence par la fin, le début le milieu... On s'en fiche ! Mais on veut que ça soit organisé, une branche par exercice.
   - le pattern de branche: interview/`mon-nom`-`exercice-1`
   - Fais des commits claires et précis
+  - Créer une merge request vers `main` par exercice !
 3. **N'hésite pas à demander de l'aide à l'équipe ou à report une issue sur un repo ;)**
 
 ## 🎯 Prêt à démarrer ?
