@@ -12,7 +12,7 @@ Ce coin est fait pour nous (et toi !) de voir comment tu bosses avec différents
 
 Voici les 4 repos où tu vas devoir prouver que t'es vraiment un dev cool. Chaque repo a un challenge particulier à relever. On ne cherche pas la perfection, mais on veut voir comment tu t’organises et comment tu résous des problèmes. 🚀
 
-### 1. **[Le Repo de l’algorithme magique : Vase qui se brise](#)** 🧙‍♂️
+### 1. **[Le Repo de l’algorithme magique : Vase qui se brise](https://github.com/inside-the-tos-studio/casse-le-vase)** 🧙‍♂️
 Là, on teste tes compétences en algorithmes. Résous le problème classique du "vase qui se brise à un étage" avec une approche optimisée. Comment trouver l’étage où le vase se brise avec deux vases et le minimum de tests possibles ? **Ne triche pas, c’est un challenge cool !**
 
 ### 2. **[Reproduire une PLP en Vue.js 3 + TypeScript](#)** ⚡
